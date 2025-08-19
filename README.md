@@ -1,6 +1,13 @@
 ## 👋 Olá! Seja bem-vindo(a) ao meu perfil!
+💻 Desenvolvedor | 🚀 Entusiasta de Tecnologia | 🔗 Conector de ideias  
 
 Sou graduando em **Tecnologia em Sistemas para Internet** pelo **Instituto Federal Catarinense – Campus Camboriú**, atualmente na fase final do curso, com todas as disciplinas concluídas e o Trabalho de Conclusão de Curso (TCC) em andamento.
+
+## 🌟 Sobre mim
+- 🎯 Apaixonado por resolver problemas com tecnologia  
+- 📚 Sempre em busca de aprender novas ferramentas e linguagens  
+- 🤝 Aberto a colaborar em projetos de código aberto e desafios inovadores
+  
  Durante a graduação, tive a oportunidade de representar as turmas de TSI no colegiado, ser bolsista de pesquisa em 2023 e bolsista de extensão em 2024. Meu projeto de pesquisa em banco de dados foi premiado na FICE, e participei ativamente de diversos programas de extensão, que ampliaram minha experiência prática e meu contato com diferentes áreas da tecnologia. Meu projeto premiado na Feira de Iniciação Científica e Extensão (FICE) de 2024 envolveu a análise bibliométrica dos artigos científicos da feira, com desenvolvimento de banco de dados e análises estatísticas.
 
 Tenho experiência acadêmica e prática em **desenvolvimento full stack**, com foco em:
