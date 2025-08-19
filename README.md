@@ -1,10 +1,10 @@
 ## 👋 Olá! Seja bem-vindo(a) ao meu perfil!
-💻 Desenvolvedor | 🚀 Entusiasta de Tecnologia | 🔗 Conector de ideias  
+💻 Desenvolvedor | 🚀 Entusiasta de Tecnologia | 🔗 Conector de ideias | 🎨 Criador de projetos  
 
 Sou graduando em **Tecnologia em Sistemas para Internet** pelo **Instituto Federal Catarinense – Campus Camboriú**, atualmente na fase final do curso, com todas as disciplinas concluídas e o Trabalho de Conclusão de Curso (TCC) em andamento.
 
 ## 🌟 Sobre mim
-- 🎯 Apaixonado por resolver problemas com tecnologia  
+- 🎯 Apaixonado por resolver problemas com tecnologia inovação e criatividade  
 - 📚 Sempre em busca de aprender novas ferramentas e linguagens  
 - 🤝 Aberto a colaborar em projetos de código aberto e desafios inovadores
   
@@ -40,7 +40,6 @@ Busco oportunidades como **desenvolvedor júnior** ou **estagiário**, especialm
 
 ---
 
-### 📫 Conecte-se comigo:
-
-- [LinkedIn]([www.linkedin.com/in/damymoreira](https://www.linkedin.com/in/damymoreira/))
-- [Portfólio](https://github.com/xdammyx/Portfolio)
+## 🌍 Vamos nos conectar!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damymoreira)  
+[![GitHub](https://img.shields.io/badge/GitHub-xdammyx-black?logo=github&logoColor=white)](https://github.com/xdammyx)
