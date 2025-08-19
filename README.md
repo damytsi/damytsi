@@ -35,5 +35,5 @@ Busco oportunidades como **desenvolvedor júnior** ou **estagiário**, especialm
 
 ### 📫 Conecte-se comigo:
 
-- [LinkedIn](www.linkedin.com/in/damymoreira)
+- [LinkedIn]([www.linkedin.com/in/damymoreira](https://www.linkedin.com/in/damymoreira/))
 - [Portfólio](https://github.com/xdammyx/Portfolio)
