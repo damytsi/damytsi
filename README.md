@@ -18,7 +18,12 @@ Tenho experiência acadêmica e prática em **desenvolvimento full stack**, com 
 Fui premiado com o projeto **“Um estudo bibliométrico”**, apresentado na FICE/IFC. O estudo envolveu a análise de dados científicos, modelagem de banco de dados e representação estatística de produções acadêmicas. O trabalho se destacou pela organização técnica e relevância social, sendo aprovado para publicação como artigo científico.
 
 📱 **TCC – Desenvolvimento de Aplicativo**  
-Atualmente desenvolvendo um app como Trabalho de Conclusão de Curso, com foco em arquitetura de software, banco de dados e interface mobile.
+
+Aplicativo de Agricultura Compartilhada 🌱📱
+
+📌 Descrição do Projeto
+
+Este projeto é o Trabalho de Conclusão de Curso. O aplicativo tem como objetivo conectar produtores rurais e consumidores, promovendo o compartilhamento de produtos, recursos e informações agrícolas, otimizando a produção, reduzindo desperdícios e fortalecendo a colaboração na comunidade agrícola...
 
 ---
 
