@@ -8,7 +8,7 @@ Sou graduando em **Tecnologia em Sistemas para Internet** pelo **Instituto Feder
 - 📚 Sempre em busca de aprender novas ferramentas e linguagens
 - 🔗 Conector de ideias
 - 🎨 Criador de conteúdo digita
-- 🤝 Aberto a colaborar em projetos de código aberto e desafios inovadores
+- 🤝 Aberta a colaborar em projetos de código aberto e desafios inovadores
   
 
 Durante minha trajetória acadêmica, desenvolvi o projeto “Estudo Bibliométrico – Análise Bibliográfica da FICE IFC Camboriú”, sob orientação do professor Angelo Augusto Frozza, cujo objetivo foi analisar a produção científica do evento em suas 11 edições (2012–2023), construindo um banco de dados completo para subsidiar análises futuras e acompanhar a evolução da feira. O projeto envolveu a organização de informações, a criação de indicadores bibliométricos e a estruturação de uma base sólida para novas pesquisas. Esse trabalho recebeu Menção Honrosa na FICE e foi publicado nos Anais da Mostra Nacional de Iniciação Científica e Tecnológica Interdisciplinar (MICTI), consolidando sua relevância acadêmica.
