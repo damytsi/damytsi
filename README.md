@@ -1,5 +1,5 @@
 ## 👋 Olá! Seja bem-vindo(a) ao meu perfil!
-💻 Desenvolvedor | 🚀 Entusiasta de Tecnologia | 🔗 Conector de ideias | 🎨 Criador de projetos  
+💻 Desenvolvedor | 🚀 Entusiasta de Tecnologia | 🔗 Conector de ideias | 🎨 Criador de conteúdo
 
 Sou graduando em **Tecnologia em Sistemas para Internet** pelo **Instituto Federal Catarinense – Campus Camboriú**, atualmente na fase final do curso, com todas as disciplinas concluídas e o Trabalho de Conclusão de Curso (TC) em andamento.
 
